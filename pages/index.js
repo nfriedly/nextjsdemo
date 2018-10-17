@@ -11,6 +11,7 @@ export default function() {
           github.com/nfriedly/nextjsdemo</a></li>
       </ul>
 
+      <img src="/static/underduck.jpg" />
     </div>
   );
 }
