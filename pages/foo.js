@@ -1,4 +1,10 @@
+import Layout from '../components/layout'
+
 export default function() {
-  return (<p>Foo!</p>);
+  return (
+    <Layout>
+      <p>Foo!</p>
+    </Layout>
+  );
 }
 
